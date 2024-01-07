@@ -3,11 +3,11 @@
 height: 600px;
 text-align: center;
 color: #FFF;
-margin-left: px;
+
 border-radius: 16px;
 background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Banner\ Image.png');
 margin: auto;
-text-align: center  
+
     
 }
 
@@ -43,4 +43,9 @@ text-align: center;
 font-size: 48px;
 font-weight: 700;
 
+}
+.new-year{
+    width: 802.9px;
+height: 500px;
+margin-left: 400px;
 }
