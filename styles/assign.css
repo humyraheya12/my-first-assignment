@@ -1,0 +1,46 @@
+.header{
+    width: 1320px;
+height: 600px;
+text-align: center;
+color: #FFF;
+margin-left: px;
+border-radius: 16px;
+background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Banner\ Image.png');
+margin: auto;
+text-align: center  
+    
+}
+
+.header-title{ 
+    padding-top: 160px;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.header-info{
+    padding-bottom: 250px;
+   
+    font-size: 72px;
+    font-weight: 900;
+}
+.discount{
+    font-size: 88px;
+    font-weight: 700;
+    color: #F00;
+
+text-align: center;
+}
+.holiday{
+    color: #F00;
+text-align: center;
+font-size: 24px;
+font-weight: 500;
+
+}
+.catagories{
+    color: #070211;
+text-align: center;
+font-size: 48px;
+font-weight: 700;
+
+}
