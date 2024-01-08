@@ -116,7 +116,42 @@ text-align: center;
     color: red;
 }
 .banner{ margin: 120px 120px;
-    padding: 100px 383px 215px;
+    padding: 80px 383px 115px;
     background-color: antiquewhite;
+    border-radius: 10px;
+}
+.btn-sec{
+  background-color: red;
+  font-size: 20px;
+  color: #FFF;
+  margin-left: 350px;
+  display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border: none;
+border-radius: 10px;
+}
+.img-ellipse{ display: flex;
+    margin: auto;
+    width: 364.844px;
+height: 364.844px;
+padding: 30px;
+height: 300px;
+width: 300px;
+border-radius: 50%;
+border: 15px solid #F00;
+
+
+
 }
 
+
+.offer{
+    color: #F00;
+display: flex;
+font-size: 24px;
+font-weight: 500;
+
+}
