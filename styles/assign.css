@@ -106,5 +106,17 @@ text-transform: uppercase;
 }  
 .place{
     
+    color: #070211;
+font-size: 32px;
+font-weight: 600;
+text-transform: capitalize;
+text-align: center;
 }  
+.text-primary{
+    color: red;
+}
+.banner{ margin: 120px 120px;
+    padding: 100px 383px 215px;
+    background-color: antiquewhite;
+}
 
