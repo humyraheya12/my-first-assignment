@@ -286,24 +286,27 @@ margin-right: 400px;
 .number{
  font-size: 24px;
 font-weight: 500;
-padding-top: 50px;
+padding-top: 40px;
 margin-right: 200px;
 
 }
 .web-info{
 font-size: 24px;
 font-weight: 500;
-
+padding: 0;
 }
 
 .social{ display: flex;
 width: 44px;
 height: 44px;
 position: absolute;
-padding-top: 300px;
-margin-left: 200px;
+padding-top: 350px;
 justify-content: space-evenly;
+margin-right: 200px;
+
 }
+
+
 .right{ 
     display: flex;
     margin-top: 480px;
@@ -322,6 +325,11 @@ font-weight: 400;
     padding-right: 30px;
            font-size: 20px;
         font-weight: 400;
+ }
+.border{
+    margin-top: 100px;
+    margin-left: 10%;
+}  
     
-    }
+
 
