@@ -124,9 +124,9 @@ text-align: center;
   background-color: red;
   font-size: 20px;
   color: #FFF;
-  margin-left: 350px;
+  margin-left: 150px;
   display: inline-flex;
-padding: 16px 32px;
+padding: 16px 22px;
 justify-content: center;
 align-items: center;
 gap: 10px;
@@ -257,7 +257,7 @@ text-align: center;
 
 }
 .email-subcription{
-    
+color: #FFF;  
 width: 200px;
 height: 50px;
 border-radius: 0px 50px 50px 0px;
@@ -266,4 +266,62 @@ border: none;
 cursor: pointer;
 
 }
+.last-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #070211;;
+    width: 1600px;
+    height: 609px;
+    color: #FFF;
+    
+    
+}
+.contact{
+font-size: 24px;
+font-weight: 500;
+padding-top: 120px;
+padding-left: 50px;
+margin-right: 400px;
+}
+.number{
+ font-size: 24px;
+font-weight: 500;
+padding-top: 50px;
+margin-right: 200px;
+
+}
+.web-info{
+font-size: 24px;
+font-weight: 500;
+
+}
+
+.social{ display: flex;
+width: 44px;
+height: 44px;
+position: absolute;
+padding-top: 300px;
+margin-left: 200px;
+justify-content: space-evenly;
+}
+.right{ 
+    display: flex;
+    margin-top: 480px;
+    position: absolute;
+    
+}
+.reserve{
+    margin-right: 900px;
+    font-size: 20px;
+font-weight: 400;
+
+
+    
+}
+.last{ 
+    padding-right: 30px;
+           font-size: 20px;
+        font-weight: 400;
+    
+    }
 
